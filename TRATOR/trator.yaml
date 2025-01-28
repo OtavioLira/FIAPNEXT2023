@@ -1,0 +1,12 @@
+train: ../../images/train/ 
+val: ../../images/val/  
+
+names: # Defina aqui suas labels
+  0: 'Suporte Bobina Ignição' 
+  1: 'Junta Cabeçote'
+  2: 'Tampa Painel'
+  3: 'Trambulador Câmbio'
+  4: 'Coifa Barra Direção'
+  5: 'Maçaneta Interna'
+  6: 'Coifa Câmbio'
+  7: 'Farol'
