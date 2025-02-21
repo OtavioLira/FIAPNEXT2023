@@ -21,6 +21,11 @@ NEXT is a FIAP Graduation festival, where students create original projects and 
 
 Together with John Deere, where we created an AI and Machine Learning solution to help forecast the company's demand, sales or maintenance of commercialized vehicles, using macroeconomic data from agribusiness. In addition to a drone with computer vision that confirms tractor parts for maintenance, below is the clipped video.
 
+![Project Image](project-image-2.png)
+![Project Image](project-image-3.png)
+
+[My post on Linkedin](https://www.linkedin.com/posts/otavioliraneves_fiapnext-fiapnext-fiapfeelthefuture-activity-7127323894713102336-9EiB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADij5rYBlFrV7ZF3BK7hli_8DlwfTLGS86I)
+
 #### Technologies
 
 - **ESP-32 CAM** (Arduino)
