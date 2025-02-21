@@ -1,6 +1,6 @@
 # FIAPNEXT2023
 
-![Project Image](project-image-url)
+![Project Image](project-image.png)
 
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
@@ -16,6 +16,10 @@ You're sections headers will be used to reference location of destination.
 ## Description
 
 This project was developed during NEXT 2023 at FIAP. We built a drone equipped with computer vision for detecting tractor parts. Sponsored by John Deere, we used ESP-32 CAM, a drone, tractor parts, Google Drive, Python, and the YOLOv5 library.
+
+NEXT is a FIAP Graduation festival, where students create original projects and innovative solutions in partnership with some of the largest companies in Brazil and the world, using the most advanced software, platforms and technologies. Everything happens in the Arca space, with live shows and exclusive prizes!
+
+Together with John Deere, where we created an AI and Machine Learning solution to help forecast the company's demand, sales or maintenance of commercialized vehicles, using macroeconomic data from agribusiness. In addition to a drone with computer vision that confirms tractor parts for maintenance, below is the clipped video.
 
 #### Technologies
 
